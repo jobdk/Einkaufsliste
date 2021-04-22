@@ -11,3 +11,7 @@
 - Technischer Werkstudent Frankfurter Allgemeine Zeitung
 
 _22.04.2021_
+
+***
+
+![Picture](pic.png)
