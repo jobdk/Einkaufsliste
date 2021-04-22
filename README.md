@@ -2,7 +2,7 @@
 
 1. Grundschule
 3. Realschule
-4. Berufliches Gymnasium
+4. *Berufliches Gymnasium*
 5. **Wirtschaftsinformatik HFU**
 
 ***
